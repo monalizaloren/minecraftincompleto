@@ -1,12 +1,7 @@
 //Para criar um canva do fabric.js, utilize o código 'new fabric.Canvas'
 var canvas = ???('myCanvas');
 
-playerX = 10;
-playerY = 10;
-
-
-blockImageWidth = 30;
-blockImageHeight = 30;
+????????????
 
 var playerObject= "";
 var blockImageObject= "";
